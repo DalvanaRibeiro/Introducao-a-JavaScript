@@ -14,9 +14,9 @@ console.log("Seu guarda-roupa:", guardaRoupa);
 
 // Selecionando um look para sair
 let lookSelecionado = [];
-lookSelecionado.push(guardaRoupa[0]); // Camisa Branca
-lookSelecionado.push(guardaRoupa[2]); // Calça Jeans
-lookSelecionado.push(guardaRoupa[3]); // Tênis Branco
+lookSelecionado.push(guardaRoupa[0]); // push adiciona o valor do índice 0 da array (Camisa Branca)
+lookSelecionado.push(guardaRoupa[2]); // push adiciona o valor do índice 2 da array (Calça Jeans)
+lookSelecionado.push(guardaRoupa[3]); // push adiciona o valor do índice 3 da array (Tênis Branco)
 
 // Exibindo o look escolhido
 console.log("Seu look para sair:", lookSelecionado);
