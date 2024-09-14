@@ -1,5 +1,7 @@
 /*
 ###################################################################################################
+Título: Usando o método push para adicionar peças a um roupeiro
+---------------------------------------------------------------------------------------------------
 Este exercício ajuda a praticar a manipulação de arrays com o uso do método push em JavaScript. 
 Ele permite criar um array para representar o guarda-roupa e  permite ao usuário adicionar novas 
 peças de roupa ao array usando o método push. Além disso, é possível selecionar um look para sair. 
