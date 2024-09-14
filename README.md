@@ -29,7 +29,9 @@ Este repositório contém:
 
 ## Contribuições 🤝
 
-Se você encontrar algum problema ou tiver sugestões para melhorar o curso, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Se tiver alguma dúvida, sugestão ou quiser entrar em contato, você pode:
+- **Enviar um e-mail**: lopesribeirodalvana20@gmail.com 📧
+
 
 ## Licença 📜
 
