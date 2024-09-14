@@ -31,6 +31,8 @@ Este repositório contém:
 
 Se tiver alguma dúvida, sugestão ou quiser entrar em contato, você pode:
 - **Enviar um e-mail**: lopesribeirodalvana20@gmail.com 📧
+- **Abrir uma issue** no repositório para discutir.
+
 
 
 ## Licença 📜
