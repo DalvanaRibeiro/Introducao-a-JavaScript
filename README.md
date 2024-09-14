@@ -43,6 +43,6 @@ Atenciosamente,
 Professora Dalvana 💚✨
 
 <div style="position: relative; min-height: 500px;">
-  <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="Imagem do Curso" style="position: absolute; bottom: 0; right: 622px; width: 500px;"/>
+  <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="Imagem do Curso" style="position: right; bottom: 0; right: 622px; width: 500px;"/>
 </div>
 
