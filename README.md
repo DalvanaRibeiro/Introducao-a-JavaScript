@@ -2,9 +2,6 @@
 
 Bem-vindo ao repositório do curso de Introdução à Lógica de Programação com JavaScript! Este repositório faz parte do projeto **3000 Talentos TI** 🌟 e foi criado para acompanhar as aulas voltadas ao ensino dos fundamentos da lógica de programação utilizando a linguagem JavaScript.
 
-<div style="position: relative; min-height: 200px;">
-  <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="Imagem do Curso" style="position: absolute; bottom: 0; right: 0; width: 200px;"/>
-</div>
 
 ## Objetivo do Curso 🎯
 
@@ -45,4 +42,7 @@ Este curso é uma iniciativa do **3000 Talentos** 🌟 e visa proporcionar uma b
 Atenciosamente,  
 Professora Dalvana 💚✨
 
+<div style="position: relative; min-height: 500px;">
+  <img src="https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc" alt="Imagem do Curso" style="position: absolute; bottom: 0; right: 22px; width: 200px;"/>
+</div>
 
