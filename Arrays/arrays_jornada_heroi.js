@@ -12,30 +12,30 @@ e o futuro do reino depende de sua bravura e determinação. */
 "O herói começa sua aventura com alguns itens básicos. Vamos armazenar esses itens em um array."*/
 
 // Inventário inicial do herói
-let inventario = ["Espada de Madeira", "Escudo Velho", "Poção de Vida"];
+let inventario = ["Espada de Madeira", "Escudo Velho", "Poção de Vida"]
 
 // Exibindo o inventário inicial
-console.log("Seu inventário inicial:", inventario);
+console.log("Seu inventário inicial:", inventario)
 
 
 /*3. Encontrando um Tesouro:
 "O herói encontra um baú de tesouro e ganha um novo item!"*/
 
 // Herói encontra um novo item
-let novoItem = "Elmo de Ferro";
-inventario.push(novoItem);
+let novoItem = "Elmo de Ferro"
+inventario.push(novoItem)
 
 // Exibindo o inventário atualizado
-console.log("Você encontrou um baú! Novo item adicionado ao seu inventário:", inventario);
+console.log("Você encontrou um baú! Novo item adicionado ao seu inventário:", inventario)
 
 /*4. Enfrentando um Inimigo:
 "O herói enfrenta um goblin! Ele pode usar a espada ou o escudo do seu inventário para lutar."*/
 // Herói enfrenta um goblin
-console.log("Um goblin apareceu! Prepare-se para a batalha.");
+console.log("Um goblin apareceu! Prepare-se para a batalha.")
 
 // Usando itens do inventário para lutar
 let itemUsado1 = inventario[0]; // Usando a espada (primeiro item)
-console.log(`Você ataca o goblin com sua ${itemUsado1}!`);
+console.log(`Você ataca o goblin com sua ${itemUsado1}!`)
 
 
 
@@ -43,19 +43,19 @@ console.log(`Você ataca o goblin com sua ${itemUsado1}!`);
 "Durante a batalha, o herói perde vida e decide usar uma poção." */
 
 let itemUsado2 = inventario[0]; // Usando a poçãoo de vida
-console.log(`Você ataca o goblin com sua ${itemUsado2}!`);
+console.log(`Você ataca o goblin com sua ${itemUsado2}!`)
 
 /* 6. Finalizando o inimigo
 "Em um golpe o goblin sentiu o impacto, é a sua hora de finaliza-lo"
 */
 let itemUsado3 = inventario[0]; // Usando a poçãoo de vida
-console.log(`Você ataca o goblin com sua ${itemUsado3}!`);
+console.log(`Você ataca o goblin com sua ${itemUsado3}!`)
 
 /* Concluindo a Aventura:
 "O herói derrotou o goblin e continua sua jornada. Ele pode coletar mais itens e enfrentar outros desafios."*/
 
 // Finalizando a batalha
-console.log("Você derrotou o goblin e continua sua jornada.");
+console.log("Você derrotou o goblin e continua sua jornada.")
 
 
 
