@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do curso de Introdução à Lógica de Programação com JavaScript! Este repositório faz parte do projeto **3000 Talentos TI** 🌟 e foi criado para acompanhar as aulas voltadas ao ensino dos fundamentos da lógica de programação utilizando a linguagem JavaScript.
 
-
+🧑
 ## Objetivo do Curso 🎯
 
 O objetivo deste curso é proporcionar uma compreensão sólida dos princípios da lógica de programação, aplicados através do JavaScript. Ao final do curso, você terá uma base boa para resolver problemas e desenvolver soluções utilizando conceitos fundamentais da programação, tais como:
