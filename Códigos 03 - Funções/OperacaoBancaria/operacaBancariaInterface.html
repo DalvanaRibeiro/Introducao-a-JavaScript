@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Bancário Simples</title>
+    <!--  externo onde está a lógica do sistema -->
+    <link rel="stylesheet" href="style.css">
+    <script src="operacaoBancarialogica.js"></script>
+
+    
+</head>
+<body>
+
+<!-- Contêiner que envolve todo o conteúdo da interface -->
+<div class="container">
+    <!-- Título do sistema -->
+    <h1>Sistema Bancário</h1>
+    
+    <!-- Rótulo e campo de entrada para o valor -->
+    <label for="valor">Digite o valor:</label>
+    <input type="number" id="valor" placeholder="Ex: 100.00"><br>
+
+    
+
+    <!-- Botão para realizar o depósito -->
+    <button onclick="depositar()">Depositar</button>
+    
+    <!-- Botão para realizar o saque -->
+    <button class="button2" onclick="sacar()">Sacar</button>
+
+    <!-- Área que exibe o saldo atual da conta -->
+    <div class="balance">
+        Saldo: R$ <span id="saldo">0.00</span>
+    </div>
+</div>
+
+
+
+</body>
+</html>
