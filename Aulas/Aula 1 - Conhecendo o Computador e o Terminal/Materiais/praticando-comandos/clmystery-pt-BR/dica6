@@ -1,0 +1,11 @@
+Para encontrar um carro com o padrão de placa indicado pela testemunha, você
+pode usar o comando "grep" no arquivo "automoveis".
+
+	grep "Honda" automoveis
+
+	grep "Azul" automoveis
+
+	grep "L337" automoveis
+
+No entanto, note que a saída não é muito útil. Por que não?
+Experimente usar o comando "head" no arquivo para entender sua estrutura.

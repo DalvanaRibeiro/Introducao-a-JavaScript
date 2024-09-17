@@ -1,0 +1,16 @@
+Para ver se uma pessoa é associada a diversos grupos diferentes, você pode
+combinar (com o comando "cat") as diferentes listas de associações e, em
+seguida, pesquisar pelo nome da pessoa.
+
+	cat Clube_de_Campo Academia_Fitness Costco | grep "John Smith"
+
+Se você está interessado apenas na quantidade de resultados encontrados (e não
+no conteúdo destes resultados), você pode usar a opção "-c" (com letra
+minúscula!)
+
+	cat Clube_de_Campo Academia_Fitness Costco | grep -c "John Smith"
+
+Ou, alternativamente, você pode passar o resultado pelo comando "wc -l", usando
+um pipe:
+
+	cat Clube_de_Campo Academia_Fitness Costco | grep "John Smith" | wc -l

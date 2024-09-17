@@ -1,0 +1,8 @@
+"Entreviste" as duas testemunhas possíveis lendo a linha correta do arquivo
+correspondente às ruas onde elas moram. Por exemplo:
+
+	head -n 173 ruas/Rua_Mattapan | tail -n 1
+
+Este comando imprime apenas a linha 173 do arquivo correspondente à Rua
+Mattapan, porque o primeiro comando imprime apenas as primeiras 173 linhas, e
+o segundo imprime a última destas 173 linhas.

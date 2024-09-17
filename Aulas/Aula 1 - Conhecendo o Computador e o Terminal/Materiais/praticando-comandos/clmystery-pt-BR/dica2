@@ -1,0 +1,4 @@
+Experimente usar o comando "grep" para coletar as pistas do arquivo da cena
+do crime:
+
+	grep "PISTA" cena-do-crime

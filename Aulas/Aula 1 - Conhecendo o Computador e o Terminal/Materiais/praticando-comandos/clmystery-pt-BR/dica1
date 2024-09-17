@@ -1,0 +1,5 @@
+Experimente explorar o conteúdo de um arquivo usando o comando "head":
+
+	head -n 20 pessoas
+
+Este comando mostra as 20 primeiras linhas do arquivo "pessoas".

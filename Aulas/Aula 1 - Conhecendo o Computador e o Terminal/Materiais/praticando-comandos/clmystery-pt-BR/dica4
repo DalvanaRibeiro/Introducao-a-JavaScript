@@ -1,0 +1,7 @@
+Para encontrar o endereço de todas as pessoas chamadas "Annabel", utilize o
+arquivo "pessoas":
+
+	grep "Annabel" pessoas
+
+Note que nem todos os resultados são relevantes (lembre-se do que já sabemos
+sobre Annabel!).

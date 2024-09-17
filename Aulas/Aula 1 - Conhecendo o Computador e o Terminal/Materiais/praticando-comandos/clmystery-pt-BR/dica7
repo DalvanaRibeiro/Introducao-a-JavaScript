@@ -1,0 +1,11 @@
+Para encontrar um veículo que corresponda à descrição fornecida pelas
+testemunhas, precisamos imprimir, na saída, as linhas que estão EM VOLTA
+de cada linha encontrada. Para isso, podemos usar as opções -A, -B ou -C
+do comando "grep":
+
+	grep -A 5 "L337" automoveis
+
+Este comando irá encontrar todas as linhas que contém o padrão "L337" e, para
+cada linha encontrada, irá imprimir as 5 linhas seguintes (a letra "A" da opção
+vem de "After" ou "Após". Da mesma forma, a opção -B imprime linhas ANTES de
+cada linha encontrada, e a opção -C imprime linhas ANTES e DEPOIS de cada linha).
