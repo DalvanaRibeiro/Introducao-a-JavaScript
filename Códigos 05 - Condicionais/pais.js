@@ -1,4 +1,4 @@
-let codigoPais = 3; // Substitua pelo código do país desejado
+let codigoPais = 7; // Substitua pelo código do país desejado
 
 if (codigoPais === 1) {
     console.log("Estados Unidos");

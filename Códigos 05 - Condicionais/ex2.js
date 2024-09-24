@@ -14,7 +14,7 @@ if (numero1 === numero2) {
 
 function comparaNumeros(numero1, numero2) {
     if (numero1 === numero2) {
-        return "Os números são iguais rpzd moleque piranha."
+        return "Os números são iguais rpzd ."
 } else{
     return "Os números são diferentes rpzd."
 }
@@ -22,7 +22,7 @@ function comparaNumeros(numero1, numero2) {
 }
 
 // Definir as variáveis de entrada (numero1 e numero2)
-let numero1 = 20
+let numero1 = 10
 let numero2 = 20
 
 // Chamada da Função
