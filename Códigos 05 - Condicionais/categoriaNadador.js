@@ -3,7 +3,7 @@ let idade = 12
 
 // Verifica a categoria baseada na idade
 if (idade >= 5 && idade <= 7) {
-  console.log("Categoria: Infantil A")
+    console.log("Categoria: Infantil A")
 } else if (idade >= 8 && idade <= 10) {
   console.log("Categoria: Infantil B")
 } else if (idade >= 11 && idade <= 13) {
