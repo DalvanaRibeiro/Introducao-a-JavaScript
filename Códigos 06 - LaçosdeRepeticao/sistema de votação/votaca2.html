@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Votação</title>
+  <link rel="stylesheet" href="votacao.css"> <!-- Linkando o CSS -->
+</head>
+<body>
+  <div class="container">
+    <h1>Sistema de Votação</h1>
+
+    <!-- Exibindo os candidatos -->
+    <div id="candidatos"></div>
+
+    <!-- Botão para revelar o resultado da votação -->
+    <button id="revelarBtn" onclick="revelarResultados()">Revelar Resultados</button>
+
+    <!-- Exibindo o resultado (inicialmente oculto) -->
+    <h2 id="resultadoTitulo" style="display:none;">Resultado da Votação</h2>
+    <ul id="resultado" style="display:none;"></ul>
+
+    <!-- Botão para reiniciar a votação -->
+    <button onclick="resetarVotos()">Resetar Votos</button>
+  </div>
+
+  <!-- Linkando o JavaScript -->
+  <script src="votacao.js"></script>
+</body>
+</html>

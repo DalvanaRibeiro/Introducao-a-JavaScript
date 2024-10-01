@@ -1,0 +1,47 @@
+/* Estilo básico para centralizar e formatar a página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte da página */
+    background-color: #f0f0f0; /* Cor de fundo da página */
+    display: flex; /* Usamos Flexbox para centralizar os itens */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Altura da página ocupa 100% da altura da janela */
+    margin: 0; /* Remove a margem padrão do body */
+  }
+  
+  .container {
+    background-color: white; /* Cor de fundo do contêiner */
+    padding: 20px; /* Espaçamento interno do contêiner */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave ao redor do contêiner */
+    text-align: center; /* Centraliza o texto dentro do contêiner */
+  }
+  
+  h1 {
+    margin-bottom: 20px; /* Espaço abaixo do título */
+  }
+  
+  button {
+    background-color: #4CAF50; /* Cor de fundo dos botões */
+    color: white; /* Cor do texto dos botões */
+    padding: 10px 20px; /* Espaçamento interno dos botões */
+    margin: 10px; /* Margem ao redor dos botões */
+    border: none; /* Remove a borda padrão dos botões */
+    border-radius: 5px; /* Bordas arredondadas dos botões */
+    cursor: pointer; /* Muda o cursor ao passar sobre o botão */
+    font-size: 16px; /* Tamanho da fonte do texto dos botões */
+  }
+  
+  button:hover {
+    background-color: #45a049; /* Muda a cor do botão ao passar o mouse */
+  }
+  
+  .resultados p {
+    font-size: 18px; /* Tamanho da fonte para os resultados */
+    margin: 10px 0; /* Margem acima e abaixo dos parágrafos */
+  }
+  
+  span {
+    font-weight: bold; /* Deixa o texto dentro de <span> em negrito */
+  }
+  
