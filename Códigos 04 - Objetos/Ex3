@@ -1,0 +1,20 @@
+// Criação do objeto 'filme' com as propriedades básicas e a lista de personagens
+let filme = {
+    nome: "Inception", // Nome do filme
+    diretor: "Christopher Nolan", // Nome do diretor
+    anoLancamento: 2010, // Ano de lançamento do filme
+    elenco: ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"], // Lista de atores/atrizes
+    personagens: ["Dom Cobb", "Arthur", "Ariadne"], // Lista de personagens correspondentes aos atores/atrizes
+    jaViu: true // Propriedade que indica se o filme já foi assistido ou não
+};
+
+// Acessando e imprimindo cada pessoa do elenco junto com seu respectivo personagem sem usar loop
+console.log(`${filme.elenco[0]} interpreta ${filme.personagens[0]}`); // Imprime o primeiro ator/atriz e seu personagem
+console.log(`${filme.elenco[1]} interpreta ${filme.personagens[1]}`); // Imprime o segundo ator/atriz e seu personagem
+console.log(`${filme.elenco[2]} interpreta ${filme.personagens[2]}`); // Imprime o terceiro ator/atriz e seu personagem
+
+// Alterando a primeira pessoa do elenco para "Xuxa"
+filme.elenco[0] = "Xuxa"; // Substitui o primeiro ator/atriz por "Xuxa"
+
+// Imprimindo todas as propriedades do objeto 'filme' no console
+console.log(filme); // Exibe o objeto completo atualizado com todas as suas propriedades
